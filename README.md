@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Comm Bot Logo](logo.png)
+![Comm Bot Logo](logo.webp)
 
 **A powerful Discord bot for creating custom slash commands**
 
